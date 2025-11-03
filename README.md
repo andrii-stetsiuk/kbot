@@ -27,7 +27,7 @@ A Telegram bot for controlling traffic light signals using GPIO pins on a Raspbe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kbot.git
+git clone https://github.com/andrii-stetsiuk/kbot.git
 cd kbot
 ```
 
